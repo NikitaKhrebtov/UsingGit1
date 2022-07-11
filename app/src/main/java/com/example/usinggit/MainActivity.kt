@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var helloWord:String = "Hello Word!"
+        //Code fter pushing to remote repo
     }
 }
 }
